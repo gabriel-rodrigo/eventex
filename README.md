@@ -2,6 +2,9 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/gabriel-rodrigo/eventex.svg?branch=master)](https://travis-ci.org/gabriel-rodrigo/eventex)
+[![CodeFactor](https://www.codefactor.io/repository/github/gabriel-rodrigo/eventex/badge)](https://www.codefactor.io/repository/github/gabriel-rodrigo/eventex)
+
 ## Como desenvolver?
 
 1. Clone o repositório.
